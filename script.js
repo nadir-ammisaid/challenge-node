@@ -1,2 +1,2 @@
 import "dotenv/config"; 
-console.log(`I am ${process.env.name}, Wilder in city ${process.env.city}, and I love ${process.env.language}`);
+console.log(`I am ${process.env.MY_NAME}, Wilder in city ${process.env.MY_CITY}, and I love ${process.env.MY_LANGUAGE}`);
